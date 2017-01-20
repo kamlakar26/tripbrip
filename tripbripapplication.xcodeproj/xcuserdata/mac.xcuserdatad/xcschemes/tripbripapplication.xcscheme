@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0437AF681DB0EA73001FE2AE"
-               BuildableName = "tripbripapplication.app"
+               BuildableName = "TripBrip.app"
                BlueprintName = "tripbripapplication"
                ReferencedContainer = "container:tripbripapplication.xcodeproj">
             </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0437AF681DB0EA73001FE2AE"
-            BuildableName = "tripbripapplication.app"
+            BuildableName = "TripBrip.app"
             BlueprintName = "tripbripapplication"
             ReferencedContainer = "container:tripbripapplication.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0437AF681DB0EA73001FE2AE"
-            BuildableName = "tripbripapplication.app"
+            BuildableName = "TripBrip.app"
             BlueprintName = "tripbripapplication"
             ReferencedContainer = "container:tripbripapplication.xcodeproj">
          </BuildableReference>
@@ -95,7 +95,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0437AF681DB0EA73001FE2AE"
-            BuildableName = "tripbripapplication.app"
+            BuildableName = "TripBrip.app"
             BlueprintName = "tripbripapplication"
             ReferencedContainer = "container:tripbripapplication.xcodeproj">
          </BuildableReference>
